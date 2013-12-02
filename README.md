@@ -30,10 +30,8 @@ Questions
 2. remove - Remove will work similarly, worst case being d^2
 3. getCost - Get cost also runs similarly, worst case being d
 
-TODO
-
 #### 3. Exercise 12.1 from http://opendatastructures.org/ods-cpp/12_4_Discussion_Exercises.html. You may want to draw by hand, upload the picture online (Instagram, Twitter, imgur, or some place like that), and then just put a link here.
 
 #### 4. What is one question that confused you about this exercise, or one piece of advice you would share with students next semester?
 
-TODO
+Nothing confused me really about this project, I thought it was pretty easy! One thing that may not be clear to people new to C++ is that you don't have to use the "new" operator to create a vector that will store they points, making it much easier for garbage collection in this project!
